@@ -220,7 +220,7 @@ Currently, no automated tests are included. For production use, consider adding:
 - E2E tests with Playwright or Cypress
 - Type checking with `tsc --noEmit`
 
-## 📝 Usage Guide
+## Usage Guide
 
 ### Creating a Blueprint
 1. Navigate to "Blueprints" tab
@@ -253,3 +253,4 @@ Created as part of a frontend development assessment.
 ---
 
 **Note**: This application stores all data in browser localStorage. Clearing browser data will delete all contracts and blueprints.
+
