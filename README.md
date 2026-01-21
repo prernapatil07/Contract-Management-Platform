@@ -1,1 +1,0 @@
-# Contract-Management-Platform
